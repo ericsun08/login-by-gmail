@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/login-by-gmail/static/css/main.d6ae4439.chunk.css",
+    "main.js": "/login-by-gmail/static/js/main.9562fb8d.chunk.js",
+    "main.js.map": "/login-by-gmail/static/js/main.9562fb8d.chunk.js.map",
+    "runtime-main.js": "/login-by-gmail/static/js/runtime-main.1dc1287d.js",
+    "runtime-main.js.map": "/login-by-gmail/static/js/runtime-main.1dc1287d.js.map",
+    "static/css/2.818011ed.chunk.css": "/login-by-gmail/static/css/2.818011ed.chunk.css",
+    "static/js/2.8fbf79d8.chunk.js": "/login-by-gmail/static/js/2.8fbf79d8.chunk.js",
+    "static/js/2.8fbf79d8.chunk.js.map": "/login-by-gmail/static/js/2.8fbf79d8.chunk.js.map",
+    "index.html": "/login-by-gmail/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/login-by-gmail/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.d6ae4439.chunk.css.map": "/login-by-gmail/static/css/main.d6ae4439.chunk.css.map",
+    "static/js/2.8fbf79d8.chunk.js.LICENSE.txt": "/login-by-gmail/static/js/2.8fbf79d8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1dc1287d.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.8fbf79d8.chunk.js",
+    "static/css/main.d6ae4439.chunk.css",
+    "static/js/main.9562fb8d.chunk.js"
+  ]
+}
